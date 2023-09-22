@@ -13,7 +13,7 @@ slug: /catalog
 
 #### Minecraft
 
-- [Minecraft Guide](https://learn.svantle.com/game/minecraft)
+- [Minecraft Guide](/game/minecraft)
 - Roadmap - _Coming Soon_
 
 ## Contribute
