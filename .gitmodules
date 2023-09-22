@@ -1,0 +1,6 @@
+[submodule "docs/learn-syllabuses"]
+	path = docs/learn-syllabuses
+	url = https://github.com/svantle/learn-syllabuses
+[submodule "docs/learn-game-minecraft"]
+	path = docs/learn-game-minecraft
+	url = https://github.com/svantle/learn-game-minecraft
