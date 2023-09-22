@@ -30,7 +30,7 @@ We've set a few guidelines to maintain a healthy and inclusive community. Famili
 
 ## License
 
-Svantle Learn is proudly licensed under the [GNU Affero General Public License v3 (LGPLv3)](./LICENSE). This ensures our project remains free and in the public domain.
+Svantle Learn is proudly licensed under the [GNU Affero General Public License v3 (AGPLv3)](./LICENSE). This ensures our project remains free and in the public domain.
 
 ## Contact and Support
 
