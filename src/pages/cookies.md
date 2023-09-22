@@ -1,5 +1,5 @@
 ---
-slug: /legal/cookies
+slug: /cookies
 ---
 
 # Cookies Policy

@@ -1,5 +1,5 @@
 ---
-slug: /legal/privacy
+slug: /privacy
 ---
 
 # Privacy Policy

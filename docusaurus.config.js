@@ -115,15 +115,15 @@ const config = {
               items: [
                 {
                   label: 'Terms of Service',
-                  href: '/legal/tos',
+                  href: '/tos',
                 },
                 {
                   label: 'Privacy Policy',
-                  href: '/legal/privacy',
+                  href: '/privacy',
                 },
                 {
                   label: 'Cookie Policy',
-                  href: '/legal/cookies',
+                  href: '/cookies',
                 }
               ],
             },

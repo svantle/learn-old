@@ -1,5 +1,5 @@
 ---
-slug: /legal/tos
+slug: /tos
 ---
 
 # Terms of Service 
